@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-/* header */
+/* headers */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -74,7 +74,6 @@ p {
     margin-left: 25px;
 }
 
-/* dont rly know what this is/does */
 .content {
     width: 75%;
     display: inline-block;
@@ -121,8 +120,8 @@ img {
 }
 
 
-/* ENGINE AND REP */
-.content-card {
+/* articels */
+.box-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
