@@ -80,12 +80,13 @@ p {
     margin-left: 20px;
 }
 
+/*  smaller titles for beniftis */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* benifits */
+/* benifits / right side colums defined */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -120,7 +121,7 @@ img {
 }
 
 
-/* articels */
+/* articles */
 .box-content {
     margin-bottom: 20px;
     padding: 50px;
