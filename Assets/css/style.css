@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-/* headers */
+/* headers: creates font, colours both text and backgrounds */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -12,6 +12,7 @@ header {
     color: #ffffff;
 }
 
+/* main titles size, changes the three letters colour, and assigns the nav to the right side */
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -43,7 +44,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*txt*/
+/*anchor and paragraph txt*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -53,7 +54,7 @@ p {
     font-size: 16px;
 }
 
-/* nav */
+/* parent class effeccts all sections*/
 .hero {
     height: 800px;
     width: 100%;
@@ -74,6 +75,7 @@ p {
     margin-left: 25px;
 }
 
+/* right side coloums parent to each box content effects location and small headers */
 .content {
     width: 75%;
     display: inline-block;
@@ -85,7 +87,7 @@ h2 {
     font-size: 36px;
 }
 
-/* benifits */
+/* benifits effects txt colours and spacing */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,7 +104,7 @@ h2 {
     color: #ffffff;
 }
 
-/* h3 */
+/* h3 centers and provides spacing */
 h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -120,7 +122,7 @@ img {
 }
 
 
-/* articels */
+/* articels assures proper spacing, font, colours and assures the items will not overlap*/
 .box-content {
     margin-bottom: 20px;
     padding: 50px;
