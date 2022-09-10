@@ -4,10 +4,6 @@
 
 My motivation to complete this challenge was being allowed to freedom to not only impliment code learned within the course but to see my own capabilities. The module one challenge is all about cleaning code and making it more efficient. This website specificly is a mock up of a info page for horiseon, this allows us to see the vast difference from a complicated and messy code and clean consise (not perfect) improved code. In the end i learned the most about the structer of a index.html
 
-## Table of Contents (Optional)
-
-N/A
-
 ## Installation
 
 No installation required
@@ -19,14 +15,7 @@ Follow the link . The top right navigation bar can bring you quickly to each sec
 
 Screenshots of used images and working website:
 
-![alt text](C:\Users\andrew\desktop\02-Challenge\module-one-challenge\Assets\images\01-html-css-git-homework-demo.png)
-![alt text](C:\Users\andrew\desktop\02-Challenge\module-one-challenge\Assets\images\brand-awareness.png)
-![alt text](C:\Users\andrew\desktop\02-Challenge\module-one-challenge\Assets\images\cost-management.png)
-![alt text](C:\Users\andrew\desktop\02-Challenge\module-one-challenge\Assets\images\digital-marketing-meeting.jpg)
-![alt text](C:\Users\andrew\desktop\02-Challenge\module-one-challenge\Assets\images\lead-generation.png)
-![alt text](C:\Users\andrew\desktop\02-Challenge\module-one-challenge\Assets\images\online-reputation-management.jpg)
-![alt text](C:\Users\andrew\desktop\02-Challenge\module-one-challenge\Assets\images\search-engine-optimization.jpg)
-![alt text](C:\Users\andrew\desktop\02-Challenge\module-one-challenge\Assets\images\social-media-marketing.jpg)
+![finished website](./Assets/images/01-html-css-git-homework-demo.png)
 
 ## Credits
 
